@@ -1,3 +1,10 @@
+uoitsci-network-manager-config (2.0) unstable; urgency=low
+
+  * Forked from debathena-network-manager-config (1.4)
+  * Switched SSID from MIT to ONCAMPUS
+
+ -- Richard Drake <richard.drake@uoit.ca>  Wed, 03 Dec 2014 10:26:05 -0500
+
 debathena-network-manager-config (1.4) unstable; urgency=low
 
   [ Jonathan Reed ]
