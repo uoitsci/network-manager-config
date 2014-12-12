@@ -19,6 +19,7 @@ security=802-11-wireless-security
 eap=peap;
 phase2-auth=mschapv2
 password-flags=1
+system-ca-certs=false
 
 [ipv4]
 method=auto
